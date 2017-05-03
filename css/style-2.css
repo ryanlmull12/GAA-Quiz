@@ -1,0 +1,44 @@
+body
+{
+	background-image: url("../IMG/GAA background.jpg");
+	padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+}
+
+#content {
+	max-width: 2000px;
+	max-height:4000px;
+	margin: 2000 auto;	
+	background-image:
+}
+div#test
+{ 
+	padding:10px 40px 40px 40px;
+	margin-top: 30px;
+    margin-bottom: 40px;
+    margin-right: 100px;
+	margin-left: 150px;
+	color: Green;
+	font-size:30pt;
+}
+#progressBar{
+	
+	margin-right:20px;
+	height:55px;
+	width:90%;
+	max-width:100%;
+}
+#Box{
+	Margin-left:150px;
+	color:White;
+	
+	
+	
+}
+#opt{
+	
+	Margin-left:150px;
+	
+}
